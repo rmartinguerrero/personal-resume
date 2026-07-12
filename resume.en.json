@@ -1,0 +1,329 @@
+{
+  "basics": {
+    "name": "Alex Morgan",
+    "label": "Senior Full Stack Developer & Cloud Architect",
+    "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop",
+    "email": "tuemail@dominio.com",
+    "phone": "000 000 0000",
+    "url": "https://tuurl.com",
+    "summary": "Senior Full Stack Developer and Cloud Architect with over 10 years of experience designing and building scalable, high-performance web applications and distributed systems. Passionate about clean code, developer experience, and open-source innovation. Proven track record leading cross-functional teams and delivering enterprise-grade solutions across fintech, e-commerce, and SaaS industries.",
+    "location": {
+      "city": "Barcelona",
+      "countryCode": "ES",
+      "region": "Catalonia"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "alex-morgan-dev",
+        "url": "https://linkedin.com/in/alex-morgan-dev"
+      },
+      {
+        "network": "GitHub",
+        "username": "alexmorgan",
+        "url": "https://github.com/alexmorgan"
+      },
+      {
+        "network": "Twitter",
+        "username": "@alexmorgan_dev",
+        "url": "https://twitter.com/alexmorgan_dev"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "CloudNova Systems",
+      "position": "Senior Full Stack Developer & Tech Lead",
+      "url": "https://cloudnova.example.com",
+      "startDate": "2022-03",
+      "endDate": "2026-06",
+      "summary": "Leading a team of 8 developers building a cloud-native SaaS platform for enterprise resource management serving over 50,000 daily active users.",
+      "highlights": [
+        "Architected and implemented a microservices-based platform reducing infrastructure costs by 40%",
+        "Led migration from monolithic architecture to event-driven microservices using Kafka and RabbitMQ",
+        "Established CI/CD pipelines with GitHub Actions, cutting deployment time from 2 hours to 12 minutes",
+        "Mentored 5 junior developers through structured code review and pair programming sessions",
+        "Implemented real-time data synchronization using WebSockets and Redis Pub/Sub"
+      ]
+    },
+    {
+      "name": "BrightPixel Studio",
+      "position": "Full Stack Developer",
+      "url": "https://brightpixel.example.com",
+      "startDate": "2020-01",
+      "endDate": "2022-02",
+      "summary": "Developed and maintained multiple client-facing web applications for an international digital agency with clients across Europe and North America.",
+      "highlights": [
+        "Built a custom e-commerce platform handling 10,000+ daily transactions with 99.9% uptime",
+        "Designed RESTful and GraphQL APIs serving mobile and web clients",
+        "Reduced page load times by 60% through code splitting, lazy loading, and CDN optimization",
+        "Implemented OAuth2 authentication flows and role-based access control systems",
+        "Collaborated with UX designers to improve conversion rates by 35% through A/B testing"
+      ]
+    },
+    {
+      "name": "DataWave Analytics",
+      "position": "Frontend Developer",
+      "url": "https://datawave.example.com",
+      "startDate": "2017-06",
+      "endDate": "2019-12",
+      "summary": "Specialized in building interactive data visualization dashboards and real-time analytics interfaces for fintech clients.",
+      "highlights": [
+        "Developed interactive financial dashboards using D3.js and React processing 1M+ data points in real time",
+        "Created a reusable chart component library adopted by 3 internal teams",
+        "Implemented WebSocket-based live data feeds for stock market monitoring",
+        "Improved accessibility compliance from WCAG 2.0 A to AA across all products",
+        "Participated in agile ceremonies and contributed to sprint planning and retrospectives"
+      ]
+    },
+    {
+      "name": "WebCraft Agency",
+      "position": "Junior Web Developer",
+      "url": "https://webcraft.example.com",
+      "startDate": "2015-09",
+      "endDate": "2017-05",
+      "summary": "Started professional career building responsive websites and internal tools for small and medium-sized businesses.",
+      "highlights": [
+        "Developed over 20 responsive websites for clients in retail, hospitality, and healthcare",
+        "Built internal project management tool that improved team productivity by 25%",
+        "Migrated legacy jQuery applications to modern React-based architectures",
+        "Managed Linux servers and configured Nginx, Apache, and SSL certificates"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universitat Politècnica de Catalunya",
+      "url": "https://www.upc.edu",
+      "area": "Software Engineering",
+      "studyType": "Master's Degree",
+      "startDate": "2013-09",
+      "endDate": "2015-07",
+      "score": "9.2/10",
+      "courses": [
+        "Advanced Software Architecture",
+        "Distributed Systems",
+        "Machine Learning Fundamentals",
+        "Cloud Computing",
+        "DevOps Practices"
+      ]
+    },
+    {
+      "institution": "Universitat de Barcelona",
+      "url": "https://www.ub.edu",
+      "area": "Computer Science",
+      "studyType": "Bachelor's Degree",
+      "startDate": "2009-09",
+      "endDate": "2013-06",
+      "score": "8.7/10",
+      "courses": [
+        "Data Structures and Algorithms",
+        "Object-Oriented Programming",
+        "Database Systems",
+        "Operating Systems",
+        "Computer Networks",
+        "Web Technologies"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Frontend Development",
+      "level": "Expert",
+      "keywords": [
+        "JavaScript",
+        "TypeScript",
+        "React",
+        "Next.js",
+        "Astro",
+        "Vue.js",
+        "Tailwind CSS",
+        "HTML5",
+        "CSS3"
+      ]
+    },
+    {
+      "name": "Backend Development",
+      "level": "Expert",
+      "keywords": [
+        "Node.js",
+        "Express",
+        "NestJS",
+        "Python",
+        "Django",
+        "REST APIs",
+        "GraphQL",
+        "WebSockets"
+      ]
+    },
+    {
+      "name": "Cloud & DevOps",
+      "level": "Advanced",
+      "keywords": [
+        "AWS",
+        "Google Cloud",
+        "Docker",
+        "Kubernetes",
+        "Terraform",
+        "CI/CD",
+        "GitHub Actions",
+        "Jenkins"
+      ]
+    },
+    {
+      "name": "Databases",
+      "level": "Advanced",
+      "keywords": [
+        "PostgreSQL",
+        "MongoDB",
+        "Redis",
+        "Elasticsearch",
+        "DynamoDB",
+        "Prisma ORM"
+      ]
+    },
+    {
+      "name": "Mobile Development",
+      "level": "Intermediate",
+      "keywords": [
+        "React Native",
+        "Expo",
+        "Flutter",
+        "PWA"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Professional"
+    },
+    {
+      "language": "Italian",
+      "fluency": "Intermediate"
+    }
+  ],
+  "projects": [
+    {
+      "name": "CV For Everyone",
+      "description": "Open-source platform to create, manage, and deploy multilingual web resumes without writing code.",
+      "highlights": [
+        "No-code visual editor with drag-and-drop interface",
+        "JSON Resume schema compliance with real-time preview",
+        "Dynamic multilingual system supporting 10+ languages",
+        "Deployed on Netlify with automatic SSL and CDN"
+      ],
+      "keywords": [
+        "Astro",
+        "Netlify",
+        "OAuth",
+        "JSON Resume",
+        "i18n"
+      ],
+      "url": "https://github.com/alexmorgan/cv-for-everyone"
+    },
+    {
+      "name": "CloudDeploy Dashboard",
+      "description": "Self-hosted deployment dashboard for managing multiple cloud infrastructure providers from a single interface.",
+      "highlights": [
+        "Unified AWS, GCP, and Azure management in one React dashboard",
+        "Real-time resource monitoring with Prometheus and Grafana integration",
+        "One-click deployment pipelines with rollback capabilities",
+        "Used by 200+ developers across 15 organizations"
+      ],
+      "keywords": [
+        "React",
+        "TypeScript",
+        "Docker",
+        "Kubernetes",
+        "Prometheus"
+      ],
+      "url": "https://github.com/alexmorgan/clouddeploy-dashboard"
+    },
+    {
+      "name": "OpenTranslate",
+      "description": "Collaborative open-source translation management platform for internationalization teams.",
+      "highlights": [
+        "Supports 50+ file formats including JSON, YAML, PO, and XLIFF",
+        "AI-assisted translation suggestions with human review workflow",
+        "Integration with GitHub for automated translation pull requests",
+        "Translation memory system reducing duplicate work by 70%"
+      ],
+      "keywords": [
+        "Next.js",
+        "PostgreSQL",
+        "OpenAI API",
+        "GitHub API"
+      ],
+      "url": "https://github.com/alexmorgan/opentranslate"
+    },
+    {
+      "name": "TaskFlow Pro",
+      "description": "Advanced task management application with AI-powered prioritization for distributed teams.",
+      "highlights": [
+        "Real-time collaboration with conflict-free replicated data types (CRDTs)",
+        "AI-driven task prioritization and sprint planning suggestions",
+        "Mobile-first responsive design with offline support",
+        "End-to-end encryption for sensitive project data"
+      ],
+      "keywords": [
+        "React",
+        "Firebase",
+        "TypeScript",
+        "WebRTC",
+        "PWA"
+      ],
+      "url": "https://github.com/alexmorgan/taskflow-pro"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Innovation Award for Outstanding Technical Leadership",
+      "date": "2024-11-15",
+      "awarder": "CloudNova Systems",
+      "summary": "Recognized for leading the architecture redesign that reduced infrastructure costs by 40% while improving system reliability to 99.99% uptime."
+    },
+    {
+      "title": "First Place - Barcelona Tech Week Hackathon",
+      "date": "2023-10-20",
+      "awarder": "Barcelona Tech Week",
+      "summary": "Won first place among 120 teams for building an AI-powered accessibility testing tool for web applications in 48 hours."
+    },
+    {
+      "title": "Best Open Source Contribution",
+      "date": "2022-06-10",
+      "awarder": "JavaScript Barcelona Meetup",
+      "summary": "Awarded for contributions to the open-source community through the CV For Everyone project and related tooling."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "AWS Solutions Architect - Professional",
+      "date": "2023-05",
+      "issuer": "Amazon Web Services",
+      "url": "https://aws.amazon.com/certification"
+    },
+    {
+      "name": "Google Cloud Professional Cloud Architect",
+      "date": "2022-09",
+      "issuer": "Google Cloud",
+      "url": "https://cloud.google.com/certification"
+    },
+    {
+      "name": "Kubernetes Application Developer (CKAD)",
+      "date": "2021-11",
+      "issuer": "Cloud Native Computing Foundation",
+      "url": "https://www.cncf.io/certification/ckad"
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2026-07-12",
+    "template": "techy"
+  }
+}
