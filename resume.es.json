@@ -1,0 +1,329 @@
+{
+  "basics": {
+    "name": "Alex Morgan",
+    "label": "Desarrollador Full Stack Senior y Arquitecto Cloud",
+    "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop",
+    "email": "tuemail@dominio.com",
+    "phone": "000 000 0000",
+    "url": "https://tuurl.com",
+    "summary": "Desarrollador Full Stack Senior y Arquitecto Cloud con más de 10 años de experiencia diseñando y construyendo aplicaciones web escalables y de alto rendimiento, así como sistemas distribuidos. Apasionado por el código limpio, la experiencia del desarrollador y la innovación de código abierto. Historial demostrado liderando equipos multifuncionales y entregando soluciones de nivel empresarial en las industrias de fintech, comercio electrónico y SaaS.",
+    "location": {
+      "city": "Barcelona",
+      "countryCode": "ES",
+      "region": "Cataluña"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "alex-morgan-dev",
+        "url": "https://linkedin.com/in/alex-morgan-dev"
+      },
+      {
+        "network": "GitHub",
+        "username": "alexmorgan",
+        "url": "https://github.com/alexmorgan"
+      },
+      {
+        "network": "Twitter",
+        "username": "@alexmorgan_dev",
+        "url": "https://twitter.com/alexmorgan_dev"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "CloudNova Systems",
+      "position": "Desarrollador Full Stack Senior y Líder Técnico",
+      "url": "https://cloudnova.example.com",
+      "startDate": "2022-03",
+      "endDate": "2026-06",
+      "summary": "Liderazgo de un equipo de 8 desarrolladores en la construcción de una plataforma SaaS nativa en la nube para gestión de recursos empresariales con más de 50,000 usuarios activos diarios.",
+      "highlights": [
+        "Diseñé e implementé una plataforma basada en microservicios reduciendo costos de infraestructura en un 40%",
+        "Lideré la migración de arquitectura monolítica a microservicios orientados a eventos usando Kafka y RabbitMQ",
+        "Establecí pipelines CI/CD con GitHub Actions, reduciendo el tiempo de despliegue de 2 horas a 12 minutos",
+        "Mentoricé a 5 desarrolladores junior mediante sesiones estructuradas de revisión de código y programación en parejas",
+        "Implementé sincronización de datos en tiempo real usando WebSockets y Redis Pub/Sub"
+      ]
+    },
+    {
+      "name": "BrightPixel Studio",
+      "position": "Desarrollador Full Stack",
+      "url": "https://brightpixel.example.com",
+      "startDate": "2020-01",
+      "endDate": "2022-02",
+      "summary": "Desarrollo y mantenimiento de múltiples aplicaciones web orientadas al cliente para una agencia digital internacional con clientes en Europa y América del Norte.",
+      "highlights": [
+        "Construí una plataforma de comercio electrónico personalizada manejando más de 10,000 transacciones diarias con 99.9% de disponibilidad",
+        "Diseñé APIs RESTful y GraphQL para clientes móviles y web",
+        "Reduje los tiempos de carga de página en un 60% mediante división de código, carga diferida y optimización CDN",
+        "Implementé flujos de autenticación OAuth2 y sistemas de control de acceso basados en roles",
+        "Colaboré con diseñadores UX para mejorar las tasas de conversión en un 35% mediante pruebas A/B"
+      ]
+    },
+    {
+      "name": "DataWave Analytics",
+      "position": "Desarrollador Frontend",
+      "url": "https://datawave.example.com",
+      "startDate": "2017-06",
+      "endDate": "2019-12",
+      "summary": "Especializado en la construcción de paneles de visualización de datos interactivos e interfaces de análisis en tiempo real para clientes del sector financiero.",
+      "highlights": [
+        "Desarrollé paneles financieros interactivos usando D3.js y React procesando más de 1 millón de puntos de datos en tiempo real",
+        "Creé una biblioteca reutilizable de componentes de gráficos adoptada por 3 equipos internos",
+        "Implementé flujos de datos en vivo basados en WebSockets para monitoreo del mercado de valores",
+        "Mejoré el cumplimiento de accesibilidad de WCAG 2.0 A a AA en todos los productos",
+        "Participé en ceremonias ágiles y contribuí a la planificación de sprints y retrospectivas"
+      ]
+    },
+    {
+      "name": "WebCraft Agency",
+      "position": "Desarrollador Web Junior",
+      "url": "https://webcraft.example.com",
+      "startDate": "2015-09",
+      "endDate": "2017-05",
+      "summary": "Inicio de la carrera profesional construyendo sitios web responsivos y herramientas internas para pequeñas y medianas empresas.",
+      "highlights": [
+        "Desarrollé más de 20 sitios web responsivos para clientes en retail, hostelería y salud",
+        "Construí herramienta interna de gestión de proyectos que mejoró la productividad del equipo en un 25%",
+        "Migré aplicaciones heredadas de jQuery a arquitecturas modernas basadas en React",
+        "Gestioné servidores Linux y configuré Nginx, Apache y certificados SSL"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universitat Politècnica de Catalunya",
+      "url": "https://www.upc.edu",
+      "area": "Ingeniería del Software",
+      "studyType": "Máster",
+      "startDate": "2013-09",
+      "endDate": "2015-07",
+      "score": "9.2/10",
+      "courses": [
+        "Arquitectura Avanzada de Software",
+        "Sistemas Distribuidos",
+        "Fundamentos de Aprendizaje Automático",
+        "Computación en la Nube",
+        "Prácticas de DevOps"
+      ]
+    },
+    {
+      "institution": "Universitat de Barcelona",
+      "url": "https://www.ub.edu",
+      "area": "Ciencias de la Computación",
+      "studyType": "Grado",
+      "startDate": "2009-09",
+      "endDate": "2013-06",
+      "score": "8.7/10",
+      "courses": [
+        "Estructuras de Datos y Algoritmos",
+        "Programación Orientada a Objetos",
+        "Sistemas de Bases de Datos",
+        "Sistemas Operativos",
+        "Redes de Computadoras",
+        "Tecnologías Web"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Desarrollo Frontend",
+      "level": "Experto",
+      "keywords": [
+        "JavaScript",
+        "TypeScript",
+        "React",
+        "Next.js",
+        "Astro",
+        "Vue.js",
+        "Tailwind CSS",
+        "HTML5",
+        "CSS3"
+      ]
+    },
+    {
+      "name": "Desarrollo Backend",
+      "level": "Experto",
+      "keywords": [
+        "Node.js",
+        "Express",
+        "NestJS",
+        "Python",
+        "Django",
+        "APIs REST",
+        "GraphQL",
+        "WebSockets"
+      ]
+    },
+    {
+      "name": "Cloud y DevOps",
+      "level": "Avanzado",
+      "keywords": [
+        "AWS",
+        "Google Cloud",
+        "Docker",
+        "Kubernetes",
+        "Terraform",
+        "CI/CD",
+        "GitHub Actions",
+        "Jenkins"
+      ]
+    },
+    {
+      "name": "Bases de Datos",
+      "level": "Avanzado",
+      "keywords": [
+        "PostgreSQL",
+        "MongoDB",
+        "Redis",
+        "Elasticsearch",
+        "DynamoDB",
+        "Prisma ORM"
+      ]
+    },
+    {
+      "name": "Desarrollo Móvil",
+      "level": "Intermedio",
+      "keywords": [
+        "React Native",
+        "Expo",
+        "Flutter",
+        "PWA"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Inglés",
+      "fluency": "Nativo"
+    },
+    {
+      "language": "Español",
+      "fluency": "Profesional"
+    },
+    {
+      "language": "Italiano",
+      "fluency": "Intermedio"
+    }
+  ],
+  "projects": [
+    {
+      "name": "CV Para Todos",
+      "description": "Plataforma open-source para crear, gestionar y desplegar currículums web multidioma sin escribir código.",
+      "highlights": [
+        "Editor visual sin código con interfaz de arrastrar y soltar",
+        "Cumplimiento del esquema JSON Resume con vista previa en tiempo real",
+        "Sistema multidioma dinámico compatible con más de 10 idiomas",
+        "Desplegado en Netlify con SSL automático y CDN"
+      ],
+      "keywords": [
+        "Astro",
+        "Netlify",
+        "OAuth",
+        "JSON Resume",
+        "i18n"
+      ],
+      "url": "https://github.com/alexmorgan/cv-for-everyone"
+    },
+    {
+      "name": "CloudDeploy Dashboard",
+      "description": "Panel de despliegue auto-hospedado para gestionar múltiples proveedores de infraestructura cloud desde una sola interfaz.",
+      "highlights": [
+        "Gestión unificada de AWS, GCP y Azure en un solo panel React",
+        "Monitoreo de recursos en tiempo real con integración de Prometheus y Grafana",
+        "Pipelines de despliegue con un clic con capacidades de reversión",
+        "Utilizado por más de 200 desarrolladores en 15 organizaciones"
+      ],
+      "keywords": [
+        "React",
+        "TypeScript",
+        "Docker",
+        "Kubernetes",
+        "Prometheus"
+      ],
+      "url": "https://github.com/alexmorgan/clouddeploy-dashboard"
+    },
+    {
+      "name": "OpenTranslate",
+      "description": "Plataforma colaborativa de código abierto para gestión de traducciones para equipos de internacionalización.",
+      "highlights": [
+        "Soporte para más de 50 formatos de archivo incluyendo JSON, YAML, PO y XLIFF",
+        "Sugerencias de traducción asistidas por IA con flujo de revisión humana",
+        "Integración con GitHub para pull requests de traducción automatizados",
+        "Sistema de memoria de traducción reduciendo trabajo duplicado en un 70%"
+      ],
+      "keywords": [
+        "Next.js",
+        "PostgreSQL",
+        "OpenAI API",
+        "GitHub API"
+      ],
+      "url": "https://github.com/alexmorgan/opentranslate"
+    },
+    {
+      "name": "TaskFlow Pro",
+      "description": "Aplicación avanzada de gestión de tareas con priorización impulsada por IA para equipos distribuidos.",
+      "highlights": [
+        "Colaboración en tiempo real con tipos de datos replicados sin conflictos (CRDTs)",
+        "Priorización de tareas impulsada por IA y sugerencias de planificación de sprints",
+        "Diseño responsivo mobile-first con soporte offline",
+        "Cifrado de extremo a extremo para datos sensibles del proyecto"
+      ],
+      "keywords": [
+        "React",
+        "Firebase",
+        "TypeScript",
+        "WebRTC",
+        "PWA"
+      ],
+      "url": "https://github.com/alexmorgan/taskflow-pro"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Premio a la Innovación por Liderazgo Técnico Destacado",
+      "date": "2024-11-15",
+      "awarder": "CloudNova Systems",
+      "summary": "Reconocimiento por liderar el rediseño de arquitectura que redujo los costos de infraestructura en un 40% mientras se mejoraba la confiabilidad del sistema a 99.99% de disponibilidad."
+    },
+    {
+      "title": "Primer Lugar - Hackathon Barcelona Tech Week",
+      "date": "2023-10-20",
+      "awarder": "Barcelona Tech Week",
+      "summary": "Primer lugar entre 120 equipos por construir una herramienta de testing de accesibilidad impulsada por IA para aplicaciones web en 48 horas."
+    },
+    {
+      "title": "Mejor Contribución de Código Abierto",
+      "date": "2022-06-10",
+      "awarder": "JavaScript Barcelona Meetup",
+      "summary": "Premio por contribuciones a la comunidad de código abierto a través del proyecto CV Para Todos y herramientas relacionadas."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "AWS Solutions Architect - Professional",
+      "date": "2023-05",
+      "issuer": "Amazon Web Services",
+      "url": "https://aws.amazon.com/certification"
+    },
+    {
+      "name": "Google Cloud Professional Cloud Architect",
+      "date": "2022-09",
+      "issuer": "Google Cloud",
+      "url": "https://cloud.google.com/certification"
+    },
+    {
+      "name": "Kubernetes Application Developer (CKAD)",
+      "date": "2021-11",
+      "issuer": "Cloud Native Computing Foundation",
+      "url": "https://www.cncf.io/certification/ckad"
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2026-07-12",
+    "template": "techy"
+  }
+}
