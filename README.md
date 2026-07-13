@@ -6,7 +6,7 @@
 
 # 📄 Personal Resume — Demo
 
-Currículum web estático multiidioma generado como **página demo** del proyecto principal [CV para Todos](https://github.com/RaulMartinGuerrero/CV-para-todos).
+Currículum web estático multiidioma generado como **página demo** del proyecto principal [CV para Todos](https://github.com/rmartinguerrero/CV-para-todos).
 
 Este repositorio contiene la versión exportada y estática de un CV construido con la plantilla **techy** del generador. Está diseñado para mostrarse como ejemplo vivo de lo que cualquier usuario puede crear con el proyecto principal.
 
@@ -65,7 +65,7 @@ npx serve .
 
 Este repositorio es una demo estática del proyecto completo:
 
-> 👉 **[CV para Todos](https://github.com/RaulMartinGuerrero/CV-para-todos)** — Currículum web multiidioma, open-source, con editor visual No-Code y despliegue automático.
+> 👉 **[CV para Todos](https://github.com/rmartinguerrero/CV-para-todos)** — Currículum web multiidioma, open-source, con editor visual No-Code y despliegue automático.
 
 ---
 
